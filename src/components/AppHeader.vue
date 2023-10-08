@@ -1,26 +1,32 @@
 <template>
   <header>
     <div class="container-fluid navbar d-flex flex-row align-items-center justify-content-center">
-      <div>
-        <img src="../assets/logo/logo.jpg" alt="" height="80">
+      <div class="col-xs-6 col-md-6 col-lg-6">
+        <img src="../assets/logo/logo.jpg" alt="" height="110">
       </div>
       <ul class="navbar-nav d-flex flex-row">
         <!-- home  -->                        
-        <li class="nav-item nav_item_hover mx-2 ">
+        <li class="nav-item nav_item_hover mx-1">
           <router-link :to="'/'" class="text">
-          Home
+           Home
           </router-link>
          
         </li>
         <!-- contatti  -->                        
-        <li class="nav-item nav_item_hover mx-2  ">
-         <router-link to="/contatti" class="text">Contatti</router-link>
+        <li class="nav-item nav_item_hover mx-1 ">
+         <router-link to="/LaNostreEquipe" class="text">La nostra equipe</router-link>
         
         </li>
         <!-- chi siamo -->                        
-        <li class="nav-item nav_item_hover mx-2  ">
-         <router-link to="/chi-siamo" class="text">Chi siamo</router-link>
+        <li class="nav-item nav_item_hover mx-1 ">
+         <router-link to="/LeNostreAttività" class="text">Le Nostre Attività</router-link>
           
+        </li>
+        <li class="nav-item nav_item_hover mx-1">
+          <router-link :to="'/Contatti'" class="text">
+          Contatti
+          </router-link>
+         
         </li>
       </ul>
     </div>

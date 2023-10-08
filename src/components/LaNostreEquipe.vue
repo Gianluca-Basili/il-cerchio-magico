@@ -1,13 +1,13 @@
+<template lang="">
+    <div>
+        sono iop
+    </div>
+</template>
 <script>
 export default {
     
 }
 </script>
-<template lang="">
-    <div>
-        ciao
-    </div>
-</template>
 <style lang="">
     
 </style>
