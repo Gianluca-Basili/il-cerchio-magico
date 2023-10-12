@@ -30,7 +30,7 @@ export default {
                 </div>
                 <ul class="list-unstyled">
                     <li>
-                        <a href="https://associazioneilcerchiomagico.com/iscrizione.pdf" download>Scarica il Modulo di iscrizione </a>
+                        <a href="https://associazioneilcerchiomagico.netlify.app/iscrizione.pdf" download>Scarica il Modulo di iscrizione</a>
 
                     </li>
                     <li>
