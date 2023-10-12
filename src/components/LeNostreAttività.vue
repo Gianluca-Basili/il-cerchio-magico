@@ -34,13 +34,13 @@ export default {
 
                     </li>
                     <li>
-                        <a href="../public/tabellaprezzi.pdf"> Tabella prezzi</a>
+                        <a href="https://associazioneilcerchiomagico.netlify.app/tabellaprezzi.pdf"> Tabella prezzi</a>
                     </li>
                     <li>
-                        <a href="../public/regolamento.pdf"> Regolamento</a>
+                        <a href="https://associazioneilcerchiomagico.netlify.app/regolamento.pdf"> Regolamento</a>
                     </li>
                     <li>
-                        <a href="../public/progettoeducativo.pdf"> Progetto educativo</a>
+                        <a href="https://associazioneilcerchiomagico.netlify.app/progettoeducativo.pdf"> Progetto educativo</a>
                     </li>
                    
                 </ul>
