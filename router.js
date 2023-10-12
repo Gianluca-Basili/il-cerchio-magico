@@ -10,10 +10,13 @@ const router = createRouter({
   routes: [
     { path: '/', component: Home },           // Rotta per la homepage
     { path: '/LaNostreEquipe', component: LaNostraEquipe }, 
-    { path: '/LeNostreAttività', component: LeNostreAttività },
+    { path: '/LeNostreAttivita', component: LeNostreAttività },
     { path: '/Contatti', component: Contatti } 
   ],
   // Aggiungi altre opzioni del router qui, se necessario
 });
 
+
 export default router;
+
+
