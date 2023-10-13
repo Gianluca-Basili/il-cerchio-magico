@@ -9,6 +9,7 @@ import '@fortawesome/fontawesome-free/css/all.css'; // Importa gli stili di Font
 
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.js';
+import 'bootstrap/dist/js/bootstrap.bundle';
 
 library.add(fas,); // Aggiungi sia le icone "solid" che le icone "light"
 
