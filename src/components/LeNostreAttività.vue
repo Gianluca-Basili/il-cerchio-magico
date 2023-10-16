@@ -52,7 +52,7 @@ export default {
         <div class="row">
             <div class="col-12 text-center">
                 <p>Invia il modulo a  <a href="mailto:ilcerchiomagicoprepostscuola@gmail.com">ilcerchiomagicoprepostscuola@gmail.com</a></p>
-
+                <p>Per info Contattaci al numero: 3513471469</p>
             </div>
         </div>
         <div class="row my-5 text-center">
