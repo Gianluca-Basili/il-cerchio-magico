@@ -10,7 +10,7 @@ export default {
         <div class="row margin">
           <div class="col-sm-12 col-md-6 col-lg-6 my-5">
             <h1>Chi Siamo</h1>
-            <span class="text-success">L’Associazione il Cerchio Magico</span> nasce a Fiumicino nel 2019 da un gruppo di professionisti che operano nel campo del settore educativo, fino ad arrivare a Roma dove ad oggi risiede la sede principale.<br>
+            <span class="text-success"> <meta name="description" content="L’Associazione il Cerchio Magico">L’Associazione il Cerchio Magico</span> nasce a Fiumicino nel 2019 da un gruppo di professionisti che operano nel campo del settore educativo, fino ad arrivare a Roma dove ad oggi risiede la sede principale.<br>
             Il nome cerchio magico è tratto dal celebre romanzo di Susanna Tamaro ed è proprio ciò che rappresenta a pieno la nostra Associazione: l’accoglienza verso l’altro, l’ascolto, l’uguaglianza sociale e il diritto di ogni bambino/a ad avere un proprio posto nel mondo, fornendo a tutti i giusti strumenti e le stesse possibilità, senza discriminazioni razziali o socio economiche.<br>
             I professioni che fanno parte dell’associazione hanno varie formazioni, quali:
             Psicologi, educatori, terapisti occupazionali, psicoterapeuti, puericultrici, terapisti ABA / Pet therapy, pedagogisti, osteopati, operatori sanitari.
